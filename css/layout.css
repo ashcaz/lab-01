@@ -1,0 +1,44 @@
+header{
+  text-align: center;
+}
+
+h1{
+  padding: 2rem;
+}
+
+.a{
+  margin: 1rem auto;
+  padding: 1rem;
+  width:90%;
+}
+
+.deck{
+  margin: 1rem auto;
+  width: 90%;
+}
+.card{
+  margin:.5rem;
+}
+footer{
+  margin: .5rem auto;
+  width:90%;
+
+}
+
+@media (min-width: 768px){
+  body{
+    background: crimson;
+    font-size: 1.5rem;
+  }
+  .card{
+    display: inline-block;
+    width: 25%;
+    margin:1rem auto;
+  }
+  /* .a{
+    float: left;
+    width:10%;
+    height: 35rem;
+  } */
+
+}
