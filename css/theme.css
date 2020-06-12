@@ -1,0 +1,26 @@
+header{
+  background: yellowgreen;
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+body{
+  background: white;
+}
+
+.a{
+  border: 2px solid black;
+}
+
+
+
+.card{
+    border: 2px solid black;
+}
+
+footer{
+  background: rgb(126, 192, 230);
+}
+
+
